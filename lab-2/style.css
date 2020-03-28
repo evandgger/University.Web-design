@@ -1,0 +1,11 @@
+.first-frame {
+    margin-top: 40px;
+}
+
+.first-frame iframe {
+    width: 808px;
+}
+
+.second-and-third-frames iframe {
+    width: 400px;
+}

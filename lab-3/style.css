@@ -1,0 +1,87 @@
+.style-demo {
+    border: 2px solid black;
+    background-color: beige;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.header-demo {
+    font-family: Courier New;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.header-demo :nth-child(odd) {
+    color: green;
+}
+
+.header-demo :nth-child(even) {
+    color: red;
+}
+
+.span-demo span {
+    color: blue;
+    font-weight: bold;
+}
+
+.div-demo div {
+    color: purple;
+    margin-top: 10px;
+    font-weight: bolder
+}
+
+.p-demo {
+    font-size: 24px;
+    font-family: "Open Sans";
+}
+
+.section-demo {
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: black 1px 2px 10px;
+}
+
+.section-demo p {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.ol-demo {
+    width: 400px;
+    border: 2px solid red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Courier New;
+}
+
+.ul-demo {
+    width: 400px;
+    border: 2px solid green;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+}
+
+.select-demo {
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.font-demo {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.font-demo b,
+.font-demo i,
+.font-demo u {
+    padding: 10px;
+
+}
