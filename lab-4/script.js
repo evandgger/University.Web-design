@@ -1,5 +1,5 @@
-const defaultImageWidth = 300;
-const defaultImageHeight = 300;
+const defaultImageWidth = 250;
+const defaultImageHeight = 250;
 const defaultParagraphColor = "black";
 
 window.addEventListener('DOMContentLoaded', () => {
